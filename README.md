@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike Sharing System - Multiple Linear Regression
+> Python Code to generate Multiple Linear Regression Model to predict the Demand for Shared Bikes.
 
 
 ## Table of Contents
