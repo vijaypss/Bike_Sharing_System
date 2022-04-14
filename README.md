@@ -20,7 +20,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- The Equation produced by the linear-regression model to predict the total number of users is as:
+- The Equation produced by the linear-regression model to predict the total number of users is as:</br>
  TotalUsers = 0.246 - 0.249 x lightSnow - 0.180 x windspeed - 0.123 x hum - 0.074 x Spring - 0.064 x holiday - 0.059 X Mist</br> + 0.019 X workingday + 0.043 X Summer + 0.049 X weekday + 0.090 X Winter + 0.232 X yr + 0.493 X temp
 - The User Demand for the Bike Sharing Service is positively affected by workingday, weekday, summer, winter and temp variables.`
 - The User Demand for the Bike Sharing Service is negatively affected by lightSnow, windspeed, Spring, holiday and Mist variables.
